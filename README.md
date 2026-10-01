@@ -69,3 +69,7 @@ make -C p4
 ```
 
 Run the behavioral model tests with `make -C p4 sim`.
+
+### Building the Kernel Module (Driver) for OpenNIC Shell###
+
+Follow the instructions in [open-nic-driver/README.md](./open-nic-driver/README.md).
