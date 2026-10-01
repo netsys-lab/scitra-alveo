@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/python/",
+        "${workspaceFolder}/python/scapy-scion-int/",
+        "${env:XILINX_VIVADO}/tps/lib/python3.8"
+    ]
+}

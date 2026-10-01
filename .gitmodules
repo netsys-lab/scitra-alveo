@@ -1,0 +1,3 @@
+[submodule "python/scapy-scion-int"]
+	path = python/scapy-scion-int
+	url = https://github.com/lschulz/scapy-scion-int.git
